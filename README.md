@@ -73,8 +73,8 @@ I'm currently focused on building strong software engineering fundamentals while
 
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: https://your-portfolio-link
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
+- 🌐 Portfolio: https://hassanbasheir580-rgb.github.io/
+- 💼 LinkedIn: https://www.linkedin.com/in/hassan-basheir/
 - 📧 Email: hassanbasheir580@gmail.com
 
 ---
