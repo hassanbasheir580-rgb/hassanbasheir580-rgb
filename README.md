@@ -1,100 +1,82 @@
-<h1 align="center">Hi, I'm Simon Lecoq 👋</h1>
+# Hi, I'm Hassan Basheir 👋
 
-<p align="center">
-  <a href="https://simon.lecoq.io"><img src="https://img.shields.io/badge/website-simon.lecoq.io-blue?style=flat-square"></a>
-  <a href="https://metrics.lecoq.io"><img src="https://img.shields.io/badge/metrics-metrics.lecoq.io-brightgreen?style=flat-square"></a>
-  <img src="https://img.shields.io/badge/Developer%20Program-Member-purple?style=flat-square">
-</p>
+I'm a Software Engineering student at **Multimedia University (MMU), Malaysia**, with a passion for designing and building practical software solutions.
 
-<p align="center"><i>Weird or wired?</i></p>
+I enjoy solving real-world problems through clean, maintainable code and continuously expanding my skills through personal projects, university coursework, and independent learning.
 
 ---
 
-### 🚀 About me
+## 🚀 Currently
 
-- 🔭 Maintainer of **[lowlighter/metrics](https://github.com/lowlighter/metrics)**
-- 📈 GitHub metrics rendered live below — powered by my own tool
-- 🌐 Portfolio: [simon.lecoq.io](https://simon.lecoq.io)
-- 🛠️ Metrics playground: [metrics.lecoq.io](https://metrics.lecoq.io)
-
----
-
-### 📊 GitHub Metrics
-
-<!--START_SECTION:metrics-->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lowlighter/metrics/master/examples/6-showcase.classic.svg" alt="GitHub metrics" width="100%">
-</p>
-<!--END_SECTION:metrics-->
-
-> Generated automatically with [`lowlighter/metrics`](https://github.com/lowlighter/metrics) — see the workflow setup below to render your own.
+- 🎓 Bachelor of Computer Science (Software Engineering)
+- 💻 Building full-stack web applications
+- 🌱 Learning backend architecture and artificial intelligence
+- 📚 Working toward a strong software engineering portfolio
 
 ---
 
-### 🧩 Mastered technologies & topics
+## 🛠️ Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,vue,react,nodejs,python,cpp,rust,go,docker,git,github,linux,raspberrypi,firefox,figma,notion,powershell,bash,ios,androidstudio" />
-</p>
+### Languages
+- C++
+- C
+- JavaScript
+- TypeScript
+- SQL
 
----
+### Frontend
+- HTML
+- CSS
+- React
 
-### 🎧 Currently vibing to
+### Backend
+- Node.js
+- Express.js
 
-- Bipolar Nightmare — Keigo Hoashi
-- Mutter — Rammstein
+### Databases
+- SQLite
+- MySQL
 
----
-
-### ⚙️ How this README works
-
-This profile README is powered by the **[Metrics](https://github.com/lowlighter/metrics)** GitHub Action, which generates an SVG (or PDF/JSON) card with:
-
-- Profile stats (repos, followers, stars, forks, watchers)
-- Contribution calendar & streaks
-- Commit activity by hour/day
-- Most used languages
-- Suggested music tracks, PageSpeed Insights, and more via plugins
-
-#### Quick setup
-
-1. Create a workflow file at `.github/workflows/metrics.yml` in your `<username>/<username>` repository:
-
-```yaml
-name: metrics
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - master
-
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          plugin_languages: yes
-          plugin_habits: yes
-          plugin_calendar: yes
-          plugin_music: yes
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: https://your-site.example
-          plugin_stars: yes
-          plugin_topics: yes
-          plugin_projects: yes
-```
-
-2. Add a `METRICS_TOKEN` secret (a personal access token with `repo` and `read:user` scopes).
-3. Embed the generated `metrics.svg` in this README between the `START_SECTION:metrics` / `END_SECTION:metrics` markers.
-4. Commit — the Action will keep the image refreshed on the schedule you set.
+### Tools
+- Git
+- GitHub
+- Docker
+- VS Code
+- Postman
+- DBeaver
 
 ---
 
-<p align="center"><sub>Made with ❤️ and a bit of automation.</sub></p>
+## 📂 Featured Projects
+
+### 🍽️ Campus Food Ordering System
+A full-stack web application for campus food ordering and management.
+
+### 🏎️ Client-Server Multiplayer Race Game
+A multiplayer racing game built in C using TCP socket programming.
+
+### 🎬 MovieZoom
+A C++ application that helps users discover and browse movies.
+
+---
+
+## 🎯 Career Goals
+
+I'm currently focused on building strong software engineering fundamentals while expanding my expertise in:
+
+- Backend Development
+- Distributed Systems
+- Artificial Intelligence
+- Software Architecture
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://hassanbasheir580-rgb.github.io/
+- 💼 LinkedIn: https://www.linkedin.com/in/hassan-basheir/
+- 📧 Email: hassanbasheir580@gmail.com
+
+---
+
+*"Always learning. Always building."*
