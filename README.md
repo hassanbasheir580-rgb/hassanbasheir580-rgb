@@ -55,8 +55,7 @@ A full-stack web application for campus food ordering and management.
 ### 🏎️ Client-Server Multiplayer Race Game
 A multiplayer racing game built in C using TCP socket programming.
 
-### 🎬 MovieZoom
-A C++ application that helps users discover and browse movies.
+### And more...
 
 ---
 
