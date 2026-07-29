@@ -1,81 +1,126 @@
+<div align="center">
+
 # Hi, I'm Hassan Basheir 👋
 
-I'm a Software Engineering student at **Multimedia University (MMU), Malaysia**, with a passion for designing and building practical software solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Developer;Backend+Enthusiast;Aspiring+AI+Engineer" />
 
-I enjoy solving real-world problems through clean, maintainable code and continuously expanding my skills through personal projects, university coursework, and independent learning.
+Software Engineering Student @ Multimedia University (MMU)
 
----
+Passionate about building practical software, backend systems, web applications and artificial intelligence.
 
-## 🚀 Currently
+[Portfolio](https://hassanbasheir580-rgb.github.io/) • [LinkedIn](https://www.linkedin.com/in/hassan-basheir/) • [Email](hassanbasheir580@gmail.com)
 
-- 🎓 Bachelor of Computer Science (Software Engineering)
-- 💻 Building full-stack web applications
-- 🌱 Learning backend architecture and artificial intelligence
-- 📚 Working toward a strong software engineering portfolio
+</div>
 
 ---
 
-## 🛠️ Technologies
+## 👨‍💻 About Me
+
+- 🎓 Software Engineering Student at Multimedia University
+- 💻 Interested in Full-Stack Development
+- ⚙️ Love Backend Engineering
+- 🤖 Learning Artificial Intelligence
+- 🌱 Currently building practical portfolio projects
+- 🚀 Looking for Software Engineering internships
+
+---
+
+## 🛠 Tech Stack
 
 ### Languages
-- C++
-- C
-- JavaScript
-- TypeScript
-- SQL
 
-### Frontend
-- HTML
-- CSS
-- React
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,python"/>
+</p>
 
-### Backend
-- Node.js
-- Express.js
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express"/>
+</p>
 
 ### Databases
-- SQLite
-- MySQL
+
+<p>
+<img src="https://skillicons.dev/icons?i=sqlite,mysql"/>
+</p>
 
 ### Tools
-- Git
-- GitHub
-- Docker
-- VS Code
-- Postman
-- DBeaver
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux"/>
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-### 🍽️ Campus Food Ordering System
-A full-stack web application for campus food ordering and management.
+### 📌 Internship Tracker
 
-### 🏎️ Client-Server Multiplayer Race Game
-A multiplayer racing game built in C using TCP socket programming.
-
-### And more...
+A full-stack web application for managing internship applications, tracking statuses and organizing job searches.
 
 ---
 
-## 🎯 Career Goals
+### 🍔 Campus Food Ordering System
 
-I'm currently focused on building strong software engineering fundamentals while expanding my expertise in:
-
-- Backend Development
-- Distributed Systems
-- Artificial Intelligence
-- Software Architecture
+A complete ordering and management platform built as a Software Engineering group project.
 
 ---
 
-## 📫 Connect With Me
+### 🎬 MovieZoom
 
-- 🌐 Portfolio: https://hassanbasheir580-rgb.github.io/
-- 💼 LinkedIn: https://www.linkedin.com/in/hassan-basheir/
-- 📧 Email: hassanbasheir580@gmail.com
+C++ desktop application demonstrating object-oriented programming concepts.
 
 ---
+
+### 🌐 Personal Portfolio
+
+A responsive portfolio website showcasing projects, skills and achievements.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Dean's List
+- 🎖 Microsoft Learn Badges
+- 📚 Bachelor of Computer Science (Software Engineering)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hassanbasheir580-rgb&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanbasheir580-rgb&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=hassanbasheir580-rgb&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake](https://raw.githubusercontent.com/hassanbasheir580-rgb/hassanbasheir580-rgb/output/github-contribution-grid-snake.svg)
+
+---
+
+<div align="center">
+
+### Thanks for visiting!
+
+⭐ Feel free to check out my repositories and connect with me.
+
+</div>
 
 *"Always learning. Always building."*
