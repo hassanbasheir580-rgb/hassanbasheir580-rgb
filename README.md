@@ -81,31 +81,7 @@ A responsive portfolio website showcasing projects, skills and achievements.
 
 ## 🏆 Achievements
 
-- 🥇 Dean's List
-- 🎖 Microsoft Learn Badges
-- 📚 Bachelor of Computer Science (Software Engineering)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hassanbasheir580-rgb&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanbasheir580-rgb&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=hassanbasheir580-rgb&theme=tokyonight"/>
-
-</p>
+- 🥇 2 time Dean's List receiver
 
 ---
 
