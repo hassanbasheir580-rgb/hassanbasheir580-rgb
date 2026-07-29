@@ -21,7 +21,7 @@ Passionate about building practical software, backend systems, web applications 
 - ⚙️ Love Backend Engineering
 - 🤖 Learning Artificial Intelligence
 - 🌱 Currently building practical portfolio projects
-- 🚀 Looking for Software Engineering internships
+- 🚀 Open to Software Engineering internship opportunities.
 
 ---
 
@@ -114,11 +114,3 @@ A responsive portfolio website showcasing projects, skills and achievements.
 ![snake](https://raw.githubusercontent.com/hassanbasheir580-rgb/hassanbasheir580-rgb/output/github-contribution-grid-snake.svg)
 
 ---
-
-<div align="center">
-
-### Thanks for visiting!
-
-⭐ Feel free to check out my repositories and connect with me.
-
-</div>
