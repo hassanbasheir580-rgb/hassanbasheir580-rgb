@@ -53,40 +53,8 @@ Interested in Full-Stack Development • Backend Systems • AI
 
 ---
 
-## 🚀 Featured Projects
-
-### 📌 Internship Tracker
-
-A full-stack web application for managing internship applications, tracking statuses and organizing job searches.
-
----
-
-### 🍔 Campus Food Ordering System
-
-A complete ordering and management platform built as a Software Engineering group project.
-
----
-
-### 🎬 MovieZoom
-
-C++ desktop application demonstrating object-oriented programming concepts.
-
----
-
-### 🌐 Personal Portfolio
-
-A responsive portfolio website showcasing projects, skills and achievements.
-
----
-
-## 🏆 Achievements
+## 🏆 Awards and Honours
 
 - 🥇 2 time Dean's List receiver
-
----
-
-## 🐍 Contribution Snake
-
-![snake](https://raw.githubusercontent.com/hassanbasheir580-rgb/hassanbasheir580-rgb/output/github-contribution-grid-snake.svg)
 
 ---
