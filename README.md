@@ -33,18 +33,18 @@ Interested in Full-Stack Development • Backend Systems • AI
 
 <div align="center">
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Software Engineering Student at Multimedia University
-- 💻 Interested in Full-Stack Development
-- ⚙️ Love Backend Engineering
-- 🤖 Learning Artificial Intelligence
-- 🌱 Currently building practical portfolio projects
-- 🚀 Open to Software Engineering internship opportunities.
+- Software Engineering Student at Multimedia University
+- Interested in Full-Stack Development
+- Love Backend Engineering
+- Learning Artificial Intelligence
+- Currently building practical portfolio projects
+- Open to Software Engineering internship opportunities.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -72,9 +72,9 @@ Interested in Full-Stack Development • Backend Systems • AI
 
 ---
 
-## 🏆 Awards and Honours
+## Awards and Honours
 
-- 🥇 Dean's List (June 2025)
-- 🥇 Dean's List (February 2026)
+- Dean's List (June 2025)
+- Dean's List (February 2026)
 
 ---
