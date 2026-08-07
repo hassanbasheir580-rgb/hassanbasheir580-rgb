@@ -74,19 +74,7 @@ Interested in Full-Stack Development • Backend Systems • AI
 
 ## 🏆 Awards and Honours
 
-- 🥇 2 time Dean's List receiver
+- 🥇 Dean's List (June 2025)
+- 🥇 Dean's List (February 2026)
 
 ---
-
-<div align="center">
-
-<h3><code>hassanbasheir580-rgb@github ~ $ ./contributions.sh</code></h3>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=hassanbasheir580-rgb&theme=github-dark&style=terminal&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=hassanbasheir580-rgb&theme=github-dark&style=terminal&mode=dark" width="100%" alt="hassanbasheir580-rgb heatmap" />
-</picture>
-
-</div>
-
-<p align="center"><sub>Hassan Basheir · Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
