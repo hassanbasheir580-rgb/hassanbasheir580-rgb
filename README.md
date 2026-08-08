@@ -31,8 +31,6 @@ Interested in Full-Stack Development • Backend Systems • AI
 
 </div>
 
-<div align="center">
-
 ## About Me
 
 - Software Engineering Student at Multimedia University
