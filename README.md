@@ -16,18 +16,35 @@ Interested in Full-Stack Development • Backend Systems • AI
 
 <div align="center">
 
-<table>
-<tr>
-<td width="42%" valign="top"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=hassanbasheir580-rgb&theme=github-dark&style=terminal&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=hassanbasheir580-rgb&theme=github-dark&style=terminal&mode=dark" width="100%" alt="hassanbasheir580-rgb portrait" />
-</picture></td>
-<td width="58%" valign="top"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=hassanbasheir580-rgb&theme=github-dark&style=terminal&label=Hassan+Basheir&mode=light" />
-  <img src="https://www.gitskins.com/api/section/wordmark?username=hassanbasheir580-rgb&theme=github-dark&style=terminal&label=Hassan+Basheir&mode=dark" width="100%" alt="hassanbasheir580-rgb wordmark" />
-</picture></td>
-</tr>
-</table>
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://www.gitskins.com/api/section/portrait?username=hassanbasheir580-rgb&theme=github-dark&style=terminal&mode=light"
+  />
+  <img
+    src="https://www.gitskins.com/api/section/portrait?username=hassanbasheir580-rgb&theme=github-dark&style=terminal&mode=dark"
+    width="65%"
+    alt="Hassan Basheir Portrait"
+  />
+</picture>
+
+<br><br>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://www.gitskins.com/api/section/wordmark?username=hassanbasheir580-rgb&theme=github-dark&style=terminal&label=Hassan+Basheir&mode=light"
+  />
+  <img
+    src="https://www.gitskins.com/api/section/wordmark?username=hassanbasheir580-rgb&theme=github-dark&style=terminal&label=Hassan+Basheir&mode=dark"
+    width="75%"
+    alt="Hassan Basheir"
+  />
+</picture>
+
+</div>
 
 </div>
 
