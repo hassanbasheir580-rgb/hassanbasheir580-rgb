@@ -14,7 +14,11 @@ Interested in Full-Stack Development • Backend Systems • AI
 
 ---
 
-<div align="center">
+## 💻 LeetCode
+
+<p align="center">
+  <img src="https://github-readme-leetcode-card.romitsagu.com/HassanBasheir?theme=dark&show=graph,recent" />
+</p>
 
 <div align="center">
 
