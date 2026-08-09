@@ -13,54 +13,14 @@ Interested in Full-Stack Development • Backend Systems • AI
 </div>
 
 ---
-<div align="center">
-  
-## LeetCode
-
-<p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/HassanBasheir?theme=dark&show=graph,recent" />
-</p>
-</div>
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://www.gitskins.com/api/section/portrait?username=hassanbasheir580-rgb&theme=github-dark&style=terminal&mode=light"
-  />
-  <img
-    src="https://www.gitskins.com/api/section/portrait?username=hassanbasheir580-rgb&theme=github-dark&style=terminal&mode=dark"
-    width="65%"
-    alt="Hassan Basheir Portrait"
-  />
-</picture>
-
-<br><br>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://www.gitskins.com/api/section/wordmark?username=hassanbasheir580-rgb&theme=github-dark&style=terminal&label=Hassan+Basheir&mode=light"
-  />
-  <img
-    src="https://www.gitskins.com/api/section/wordmark?username=hassanbasheir580-rgb&theme=github-dark&style=terminal&label=Hassan+Basheir&mode=dark"
-    width="75%"
-    alt="Hassan Basheir"
-  />
-</picture>
-
-</div>
-
-</div>
 
 ## About Me
 
-- Software Engineering Student at Multimedia University
-- Interested in Full-Stack Development
-- Love Backend Engineering
-- Learning Artificial Intelligence
-- Currently building practical portfolio projects
-- Open to Software Engineering internship opportunities.
+I'm a Software Engineering student at Multimedia University with a strong interest in backend systems, full-stack web development, and artificial intelligence.
+
+I enjoy building practical software projects that solve real problems and continuously improve my problem-solving skills through LeetCode and personal development.
+
+Currently seeking Software Engineering internship opportunities.
 
 ---
 
@@ -68,33 +28,50 @@ Interested in Full-Stack Development • Backend Systems • AI
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,python"/>
-</p>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express"/>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 
 ### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=sqlite,mysql"/>
-</p>
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux"/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages)
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hassanbasheir580-rgb&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanbasheir580-rgb&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-## Awards and Honours
+## LeetCode
 
-- Dean's List (June 2025)
-- Dean's List (February 2026)
+<p align="center">
+  <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=HassanBasheir&theme=github_dark"/>
+</p>
 
 ---
+
+## Awards & Honours
+
+- 🏅 Dean's List — June 2025
+- 🏅 Dean's List — February 2026
