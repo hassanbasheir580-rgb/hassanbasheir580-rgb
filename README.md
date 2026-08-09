@@ -57,7 +57,7 @@ Currently seeking Software Engineering internship opportunities.
 ## LeetCode
 
 <p align="center">
-  <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=HassanBasheir&background=0D1117&border=1F6FEB&stroke=58A6FF&ring=1F6FEB&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" />
+  <img src="![LeetCode Stats](https://github-readme-leetcode-stats-5ahjnczqy-hassan-basheir.vercel.app/api/card?theme=blue-navy&border_radius=11.5&background=000000&border=00087a)" />
 </p>
 
 ---
