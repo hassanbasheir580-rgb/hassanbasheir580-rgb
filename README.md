@@ -57,7 +57,7 @@ Currently seeking Software Engineering internship opportunities.
 ## LeetCode
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/HassanBasheir?theme=dark&show=graph,recent" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/HassanBasheir?theme=dark&show=graph,recent&theme=tokyonight" />
 </p>
 
 ---
