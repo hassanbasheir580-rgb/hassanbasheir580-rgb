@@ -56,7 +56,11 @@ Currently seeking Software Engineering internship opportunities.
 
 ## LeetCode
 
+<div align="center">
+
 ![LeetCode Stats](https://github-readme-leetcode-stats-omega.vercel.app/api/card?theme=blue-navy&border=001eff&ring=00ff33&fire=ff9214)
+
+</div>
 
 ---
 
