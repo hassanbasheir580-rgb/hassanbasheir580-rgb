@@ -57,7 +57,7 @@ Currently seeking Software Engineering internship opportunities.
 ## LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/HassanBasheir?theme=dark" />
+  <img src="https://leetcard.jacoblin.cool/HassanBasheir?theme=dark&ext=activity,contest,heatmap" />
 </p>
 
 ---
