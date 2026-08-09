@@ -54,19 +54,10 @@ Currently seeking Software Engineering internship opportunities.
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hassanbasheir580-rgb&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanbasheir580-rgb&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
 ## LeetCode
 
 <p align="center">
-  <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=HassanBasheir&theme=github_dark"/>
+  <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=HassanBasheir&theme=github_dark" />
 </p>
 
 ---
