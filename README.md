@@ -63,8 +63,3 @@ Currently seeking Software Engineering internship opportunities.
 </div>
 
 ---
-
-## Awards & Honours
-
-- 🏅 Dean's List — June 2025
-- 🏅 Dean's List — February 2026
