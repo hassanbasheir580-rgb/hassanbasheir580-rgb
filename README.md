@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Developer;Backend+Enthusiast;Aspiring+AI+Engineer" />
 
-Software Engineer
+Software Engineer <br />
 Currently Studying @ Multimedia University (MMU)
 
 Interested in Full-Stack Development • Backend Systems • AI
