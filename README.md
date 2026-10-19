@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://github.com/hassanbasheir580-rgb">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=394465&fontSize=54&height=90&width=890&text=Hello!%20I'm%20Hassan%20Basheir" alt="Hello! I&#39;m Hassan Basheir" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=360&height=44&lines=Software%20Engineer;Aspiring%20AI%20Engineer" alt="Typing headlines" />
+</p>
+
 <div align="center">
 
 # Hi, I'm Hassan Basheir
