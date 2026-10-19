@@ -5,23 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=360&height=44&lines=Software%20Engineer;Aspiring%20AI%20Engineer" alt="Typing headlines" />
-</p>
-
-<div align="center">
-
-# Hi, I'm Hassan Basheir
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Developer;Backend+Enthusiast;Aspiring+AI+Engineer" />
 
-Software Engineer <br />
-Currently Studying @ Multimedia University (MMU)
-
-Interested in Full-Stack Development • Backend Systems • AI
-
 [Portfolio](https://hassanbasheir580-rgb.github.io/) • [LinkedIn](https://www.linkedin.com/in/hassan-basheir/) • [Email](mailto:hassanbasheir580@gmail.com)
+</p>
 
-</div>
 
 ---
 
